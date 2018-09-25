@@ -10,8 +10,60 @@
 
 }
 .khung .quan{
-
+	float: left;
+	width: 100%;
+	height: auto;
+}
+.quan .qkhung{
+	width: 85%;
+	height: auto;
+	margin: 0 auto;
+}
+.qkhung .qheader{
+	float: left;
+	width: 100%;
+	height: 50px;
+	line-height: 15px;
+	color: grey;
+}
+.qkhung .qbox{
+	float: left;
+	width: 32%;
+	height: 400px;
+}
+.qkhung .diff{
+	margin-left: 2%;
+	margin-right: 2%;
+}
+.qbox .qimg{
+	width: 100%;
+	height: 50%;
+}
+.qbox .qchu{
+	width: 100%;
+	height: 50%;
+}
+.qimg img{
+	width: 100%:
+	height:100%;
+}
+.qchu h3{
+	margin: 0;
+	padding: 10px;
+	text-transform: uppercase;
+}
+.qchu .qline{
+	float: left;
+	width: 20%;
+	height: 5px;
+	background: yellow;
+	margin-left: 10px;
+}
+.qchu p{
+	margin: 0;
+	padding: 10px;
+	font-size: 18px;
 }
 .khung .chi{
-	
+
 }
