@@ -2,6 +2,7 @@
 	width: 85%;
 	height: auto;
 	margin: 0 auto;
+
 }
 .khung .hien{
 	width: 100%;
@@ -60,7 +61,7 @@
 	float: left;
 	width: 100%;
 	height: 350px;
-	background: url('https://gaubongdep.com/wp-content/uploads/2018/01/y-nghia-cua-hoa-thuoc-duoc3-1487755064.jpg');
+	background: url('http://caycanhthanglong.vn/Media/thuoc%20duoc%204.jpg');
 	background-repeat: no-repeat;
 	background-size: 100%;
 	margin-bottom: 10px;
@@ -85,10 +86,172 @@
 	line-height: 20px;
 }
 .khung .viet{
+	float: left;
+	width: 100%;
+	height: auto;
+}
+.viet .viett{
+	width: 85%;
+	height: auto;
+	margin: 0 auto;
+}
+.viett .viet1{
+	float: left;
+	width: 23.5%;
+	height: auto;
+	margin-right: 2%;
+}
+.viet1 .v1{
+	width: 100%;
+	height: 100px;
+}
+.viet1 .v1 .vanh{
+	margin-top: 15px;
+	float: left;
+	width: 30%;
+	height: 70px;
+	border-radius: 100%;
+}
+.viet1 .v1 .vanh img{
+	width: 100%;
+	height: 100%;
+}
+.viet1 .v1 .vtieude{
+	float: left;
+	width: 70%;
+	height: 100px;
+}
+.viet1 .v1 .vtieude h3{
+	text-align: center;
+	margin-top: 40px;
+}
+.viet1 .v2{
+	float: left;
+	width: 100%;
+	height: 200px;
 
 }
-.khung .quan{
+.viet1 .v2 .vlink{
+	width: 50%;
+	height: 30px;
+	background: yellow;
+	border-radius: 10px 10px 10px 10px;	
+}
+.viet1 .v2 .vlink a{
+	text-align: center;
+	text-decoration: none;
+	line-height: 30px;
+	margin-left: 14px;
+}
+.viet1 .v2 .vlink a:hover{
+	color: red;
+}
+.viet .viet2{
+	float: right;
+	width: 23.5%;
+	height: auto;
+}
+.viet2 .v1{
+	width: 100%;
+	height: 100px;
+	
+}
+.viet2 .v1 .vanh{
+	margin-top: 15px;
+	float: left;
+	width: 30%;
+	height: 70px;
+	border-radius: 100%;
+}
+.viet2 .v1 .vanh img{
+	width: 100%;
+	height: 100%;
+}
+.viet2 .v1 .vtieude{
+	float: left;
+	width: 70%;
+	height: 100px;
 
+}
+.viet2 .v1 .vtieude h3{
+	text-align: center;
+	margin-top: 40px;
+}
+.viet2 .v2{
+	float: left;
+	width: 100%;
+	height: 200px;
+}
+.viet2 .v2 .vlink{
+	width: 50%;
+	height: 30px;
+	background: yellow;
+	border-radius: 10px 10px 10px 10px;	
+}
+.viet2 .v2 .vlink a{
+	text-align: center;
+	text-decoration: none;
+	line-height: 30px;
+	margin-left: 14px;
+}
+.viet2 .v2 .vlink a:hover{
+	color: red;
+}
+.khung .quan{
+	float: left;
+	width: 100%;
+	height: auto;
+}
+.quan .qkhung{
+	width: 85%;
+	height: auto;
+	margin: 0 auto;
+}
+.qkhung .qheader{
+	float: left;
+	width: 100%;
+	height: 50px;
+	line-height: 15px;
+	color: grey;
+}
+.qkhung .qbox{
+	float: left;
+	width: 32%;
+	height: 400px;
+}
+.qkhung .diff{
+	margin-left: 2%;
+	margin-right: 2%;
+}
+
+.qbox .qimg{
+	width: 100%;
+	height: 50%;
+}
+.qbox .qchu{
+	width: 100%;
+	height: 50%;
+}
+.qimg img{
+	width: 100%:
+	height:100%;
+}
+.qchu h3{
+	margin: 0;
+	padding: 10px;
+	text-transform: uppercase;
+}
+.qchu .qline{
+	float: left;
+	width: 20%;
+	height: 5px;
+	background: yellow;
+	margin-left: 10px;
+}
+.qchu p{
+	margin: 0;
+	padding: 10px;
+	font-size: 18px;
 }
 .chi{
 	float: left;
@@ -168,4 +331,3 @@
 	line-height: 20px;
 	font-size: 16px;
 	margin-left: 1%;
-}
