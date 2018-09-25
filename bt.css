@@ -4,7 +4,85 @@
 	margin: 0 auto;
 }
 .khung .hien{
+	width: 100%;
+	height: 400px;
+	margin: 0 auto;
 
+}
+.hien .hien1 {
+	width: 100%;
+	height: 50px;
+}
+.hien1 .a1 {
+	width: 30%;
+	height: 100%;
+	float: left;
+}
+.a1 h2 {
+	color: red;
+	text-align: left;
+	text-transform: uppercase;
+	line-height: 15px;
+	margin-left: 20px;
+}
+.hien1 .a2 {
+	float: right;
+	width: 58%;
+	height: 100%;
+
+}
+.a2 ul {
+	float: left;
+	width: 86%;
+	height: 100%;
+}
+.a2 ul li {
+	float: left;
+	width: 18%;
+	height: 90%;
+	margin-right: 1%;
+	margin-left: 1%;
+	list-style-type: none;
+}
+.a2 a {
+	color: grey;
+	text-decoration: none;
+	font-size: 18px;
+	text-align: left;
+	line-height: 25px;
+}
+.a2 li a:hover{
+	color: white;
+	background: red;
+}
+
+.hien .hien2 {
+	float: left;
+	width: 100%;
+	height: 350px;
+	background: url('https://gaubongdep.com/wp-content/uploads/2018/01/y-nghia-cua-hoa-thuoc-duoc3-1487755064.jpg');
+	background-repeat: no-repeat;
+	background-size: 100%;
+	margin-bottom: 10px;
+}
+.hien2 h1 {
+	color: white;
+	display: block;
+	width: 70%;
+	height: 20px;
+	line-height: 10px;
+	margin-top: 230px;
+	text-align: left;
+	margin-left: 10%;
+	text-transform: uppercase;
+	font-size: 50px;
+
+}
+.hien2 p {
+	color: red;
+	margin-left: 13%;
+	font-size: 24px;
+	line-height: 20px;
 }
 .khung .viet{
 
@@ -12,6 +90,82 @@
 .khung .quan{
 
 }
-.khung .chi{
-	
+.chi{
+	float: left;
+	width: 100%;
+	height: 300px;
+	background: #3b3c3d;
+}
+.chi .chichi {
+	width: 80%;
+	height: 100%;
+	margin-left: 15%;
+	/*background: red;*/
+}
+.chichi .a {
+	float: left;
+	width: 70%;
+	height: 100%;
+	/*background: blue;*/
+}
+.a .chi1 {
+	float: left;
+	width: 19%;
+	height: 100%;
+	margin-left: 3%;
+	margin-right: 3%;
+	/*background:violet;*/
+}
+.chi1 h3 {
+	text-align: left;
+	color: grey;
+	line-height: 25px; 	
+	font-size: 20px;
+}
+.chi1 a.clink {
+	display: block;
+	width: 50%;
+	height: 25px; 				
+	text-align: left;
+	line-height: 20px;
+	color: grey;
+	font-size: 18px;
+	text-decoration: none;
+}
+.chi1 a.clink:hover {
+	color: red;
+}
+.chichi .b {
+	float: left;
+	width: 30%;
+	height: 100%;
+}
+.b .chi2 {
+	width: 100%;
+	height: 30%;
+	margin-top: 20%;
+	/*background:yellow;*/
+}
+.chi2 .chi2a {
+	width: 100%;
+	height: 50%;
+}
+.chi2a .a1 {
+	float: left;
+	width: 23%;
+	height: 90%;
+	margin-right: 1%;
+	margin-left: 1%;
+	/*background: blue;*/
+}
+.a1 img {
+	width: 100%;
+	height: 100%;
+}
+.chi2a p {
+	color: grey;
+	text-align: left;
+	line-height: 20px;
+	font-size: 16px;
+	margin-left: 1%;
 }
